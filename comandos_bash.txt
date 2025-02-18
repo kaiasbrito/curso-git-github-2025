@@ -1,0 +1,4 @@
+ls -> lista arquivos
+cd -> move entre diretórios/pastas
+pwd -> mostra diretório de trabalho
+cat -> mostra o conteúdo de arquivos de texto
